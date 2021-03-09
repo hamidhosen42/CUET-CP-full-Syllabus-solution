@@ -1,0 +1,18 @@
+#include <iostream>
+#include <cstring>
+using namespace std;
+int main()
+{
+    int N,T;
+    string s;
+    cin>>N;
+    T=N;
+    for(int i=1;i<=T;i++)
+    {
+        cin>>s;
+        int sum=0;
+        sum=(s[0]-'0')+(s[4]-'0');
+        cout<<"Sum"<<" = "<<sum<<endl;
+    }
+    return 0;
+}
