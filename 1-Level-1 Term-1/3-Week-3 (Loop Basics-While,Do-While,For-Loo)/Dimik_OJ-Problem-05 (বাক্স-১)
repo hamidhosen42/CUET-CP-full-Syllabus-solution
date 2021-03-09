@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+void draw_square(int n)
+{
+    int i,j;
+    for(i=1;i<=n;i++)
+    {
+        for(j=1;j<=n;j++)
+        {
+            cout<<"*";
+        }
+        cout<<"\n";
+    }
+}
+
+int main()
+{
+    int T,m,i;
+
+    cin>>T;
+
+    while (T--)
+    {
+        cin>>m;
+        draw_square(m);
+        if(T>0)
+        {
+            cout<<"\n";
+        }
+    }
+
+    return 0;
+}
