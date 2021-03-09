@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define endl '\n'
+int main()
+{
+    optimize();
+
+    int i, j, k, n, m, p = 0, q;
+    cin>>n;
+    m = 2 * n - 1;
+    q = m;
+    int a[m][m];
+    for (k = n; k > 0; k--)
+    {
+        for (i = p; i < q; i++)
+        {
+            for (j = p; j < q; j++){
+                a[i][j] = k;
+            }
+        }
+        p++;
+        q--;
+    }
+    for (i = 0; i < m; i++)
+    {
+        for (j = 0; j < m; j++)
+        {
+           cout<<a[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+    return 0;
+}
