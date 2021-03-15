@@ -1,0 +1,39 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define endl '\n'
+#define ll long long int
+int main()
+{
+    optimize();
+
+    int p;
+    cin>>p;
+    while(p--)
+    {
+        int n;
+        cin>>n;
+        int arr[n][n];
+        for(int a=0 , c=1; a < 2*n - 1; a++)
+        {
+            for(int i=0;i<n;i++)
+            {
+                for(int j=0;j<n;j++)
+                {
+                    if(i+j == a){
+                        arr[i][j]=c++;
+                    }
+                }
+            }
+        }
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                cout<<arr[i][j]<<" ";
+            }
+            cout<<endl;
+        }
+    }
+    return 0;
+}
