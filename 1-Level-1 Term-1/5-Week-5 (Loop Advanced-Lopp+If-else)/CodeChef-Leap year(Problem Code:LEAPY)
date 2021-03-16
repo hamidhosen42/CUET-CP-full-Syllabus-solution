@@ -1,0 +1,30 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define endl '\n'
+#define ll long long int
+int main()
+{
+    optimize();
+
+    int t;
+    cin>>t;
+
+    while (t--){
+        int x,y,z;
+        cin>>x;
+
+        if((x%400==0) ||(x%100!=0 && x%4==0)){
+            cout<<"It is a leap year."<<endl;
+        }else{
+            while (1){
+                x++;
+                if((x%400==0) ||(x%100!=0 && x%4==0)){
+                    break;
+                }
+            }
+            cout<<"Not a leap year. Suggested: "<<x<<endl;
+        }
+    }
+    return 0;
+}
