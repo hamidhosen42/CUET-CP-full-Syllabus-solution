@@ -1,0 +1,96 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define endl '\n'
+#define ll long long int
+#define mx 10000000000
+int main()
+{
+    optimize();
+
+    int n,x;
+    long long int  array[15][15];
+    while (true){
+        cin>>n;
+        if(n==0)break;
+        int a=1;
+        for(int i=0;i<n;i++){
+            for(int j =0;j<n;j++){
+                array[i][j]=a;
+                x=array[i][0];
+                a*=2;
+            }
+            a=x*2;
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(n==1){
+                    cout<<array[i][j];
+                }else if(n==2){
+                    if(j==0){
+                        cout<<array[i][j];
+                    } else{
+                        cout<<setw(2)<<array[i][j];
+                    }
+                } else if(n==3||n==4){
+                    if(j==0){
+                        cout<<setw(2)<<array[i][j];
+                    }else{
+                        cout<<setw(3)<<array[i][j];
+                    }
+                }
+                else if(n==5){
+                    if(j==0){
+                        cout<<setw(3)<<array[i][j];
+                    } else{
+                        cout<<setw(4)<<array[i][j];
+                    }
+                }
+                else if(n==6||n==7){
+                    if(j==0){
+                        cout<<setw(4)<<array[i][j];
+                    } else{
+                        cout<<setw(5)<<array[i][j];
+                    }
+                }
+                else if(n==8||n==9) {
+                    if (j == 0) {
+                        cout << setw(5) << array[i][j];
+                    } else {
+                        cout << setw(6) << array[i][j];
+                    }
+                }
+                else if(n==10) {
+                    if (j == 0) {
+                        cout << setw(6) << array[i][j];
+                    } else {
+                        cout << setw(7) << array[i][j];
+                    }
+                }
+                else if(n==11||n==12) {
+                    if (j == 0) {
+                        cout << setw(7) << array[i][j];
+                    } else {
+                        cout << setw(8) << array[i][j];
+                    }
+                }
+                else if(n==13||n==14) {
+                    if (j == 0) {
+                        cout << setw(8) << array[i][j];
+                    } else {
+                        cout << setw(9) << array[i][j];
+                    }
+                }
+                else if(n==15) {
+                    if (j == 0) {
+                        cout << setw(9) << array[i][j];
+                    } else {
+                        cout << setw(10) << array[i][j];
+                    }
+                }
+            }cout<<endl;
+        }cout<<endl;
+    }
+
+    return 0;
+}
