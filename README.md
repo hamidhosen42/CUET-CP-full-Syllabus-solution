@@ -78,3 +78,29 @@ Expectations:
 -At the start: 900+
 
 -At the end: 1200+
+
+Tips:
+
+● Learn about different good resources as well. Geeksforgeeks, emaxx, competitive
+programming 3, Mahbubul Hasan Shanto vai’s book on programming contest,
+Shafaet Ashraf vai’s blog. These are good, but not just these-there are others.
+Google is your friend.
+
+● Spend around an hour or two at each problem before searching for solutions
+online. Not more than that, because what is important for you at this stage is to
+solve more and more problems, and if you spend all your day at one problem, your
+overall solve count will be low and you will not learn much. But make sure that you
+spend this time wisely-when we say we have worked for an hour, what happens in
+reality is that we have worked for just 20 minutes in total, and the other 40 minutes
+have been wasted away via other ‘useful’ procrastination. Perhaps learn to adopt
+the Pomodoro method.
+
+● After seeing the solution to a problem, make sure to understand the solution fully
+and absolutely. There should be no doubt regarding anything with the solution,
+and if there is, that means you have not understood it fully/internalized it. Problem
+solving is more about pattern matching, and being able to match an unseen
+problem with problems that you have seen before-but if you haven’t internalized
+the solution to the problems that you couldn’t solve by yourself, you have then
+actually just memorized it, and memorized stuff doesn’t actually stay in your mind
+for long-and you won’t be able to recognize patterns later as wel
+
