@@ -13,3 +13,8 @@ Shortcuts:
 3. Level-2 Term-1
 4. Level-2 Term-2
 5. Level-3 & Level-4
+
+Some Important Links:
+1. Code Templates = https://drive.google.com/drive/folders/1o1aeJNMkFu_a75Ug_ipd6_MWnhKaqfbS
+2. Resources in Bengali = https://github.com/me-shaon/bangla-programming-resources
+3. Books Related to Competitive Programming = https://drive.google.com/drive/folders/1p0WW_QY8SiSGpd3pw_xjoRa3PMLlksOs?fbclid=IwAR1dFBC8tHPH0V0h32MeY5IjPs4EyVXYfYLn_8h1uNz1zWNEw7tScTEvb8o
