@@ -26,34 +26,55 @@ Level-1 Term-1
 Tentative Class Schedule:
 Week Topic
 1 Variables, Data Types, Scanf/Printf, Format Specifier
+
 2 If-else, Nested If-else
+
 3 Loop Basics: While, Do-while, For-loop
+
 4 Nested Loop, Break, Continue
+
 5 Loop Advanced: Loop+If-else
 
 Online Contest-1
 
 6 Array: 1D, 2D
+
 7 Character Array, String
+
 8 Function, Recursion
+
 9 Binary Search + Others
+
 10 STL Basic
 
 Online Contest-2
 
 Guidelines:
+
 ● Get complete idea about C
+
 ● Get basic idea about C++
+
 ● Try to implement what you think
+
 ● Must participate in Long-Contests (Upto 5 days) that will be held after each class
+
 ● Take help from your Batch-mates, Seniors and Teachers if needed
 
 Expectations:
+
 ● Able to implement your idea
+
 ● Familiarize with all online judges
+
 ● Read Tamim Shahriar Subeen’s Book completely
+
 ● Solve all the problems of LightOJ beginner’s category
+
 ● Total Number of problems solved: 200+
+
 ● CF rating:
+
 -At the start: 900+
+
 -At the end: 1200+
