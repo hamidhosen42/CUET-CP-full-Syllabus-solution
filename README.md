@@ -6,4 +6,7 @@
                                            
 [1-Tutorials & problem List.pdf](https://github.com/hamidhosen42/CUET-Competitive-Programmer-s-Syllabus/files/6823903/1-Tutorials.problem.List.pdf)
 
+# (1-1) Week-2 (If else,Nested If else)
+
+[1-Tutorials & problem List.pdf](https://github.com/hamidhosen42/CUET-Competitive-Programmer-s-Syllabus/files/6823967/1-Tutorials.problem.List.pdf)
 
