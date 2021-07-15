@@ -38,9 +38,9 @@ Some Important Links:
 
 Tentative Class Schedule:
 
-Week                        Topic
+Week                   =     Topic
 
-1                           Variables, Data Types, Scanf/Printf, Format 
+1                   =        Variables, Data Types, Scanf/Printf, Format 
 
 2                           If-else, Nested If-else
 
