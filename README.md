@@ -75,3 +75,21 @@ Guidelines:
    ● Must participate in Long-Contests (Upto 5 days) that will be held after each class
    
    ● Take help from your Batch-mates, Seniors and Teachers if needed
+
+Expectations:
+
+   ● Able to implement your idea
+   
+   ● Familiarize with all online judges
+   
+   ● Read Tamim Shahriar Subeen’s Book completely
+   
+   ● Solve all the problems of LightOJ beginner’s category
+   
+   ● Total Number of problems solved: 200+
+   
+   ● CF rating:
+   
+   -At the start: 900+
+   
+   -At the end: 1200+
