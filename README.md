@@ -33,5 +33,5 @@ Some Important Links:
 
    3. Books Related to Competitive Programming = https://drive.google.com/drive/folders/1p0WW_QY8SiSGpd3pw_xjoRa3PMLlksOs?fbclid=IwAR1dFBC8tHPH0V0h32MeY5IjPs4EyVXYfYLn_8h1uNz1zWNEw7tScTEvb8o
 
-   Term wise Syllabus
-                                      Level-1 Term-1
+                                                      Term wise Syllabus
+                                                      Level-1 Term-1
