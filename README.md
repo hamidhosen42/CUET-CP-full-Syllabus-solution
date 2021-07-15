@@ -127,7 +127,7 @@ for long-and you won’t be able to recognize patterns later as well.
                            
 Tutorials:
 
-   1.প্রোগ্রামিং বইঃ [অধ্যায় দুই] ডাটা টাইপ, ইনপুট ও আউটপুট = http://cpbook.subeen.com/2011/08/data-type-input-output.html
+   1. প্রোগ্রামিং বইঃ [অধ্যায় দুই] ডাটা টাইপ, ইনপুট ও আউটপুট = http://cpbook.subeen.com/2011/08/data-type-input-output.html
 
    2. List of all format specifies in C programming = https://codeforwin.org/2015/05/list-of-all-format-specifiers-in-c-programming.html
    
