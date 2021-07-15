@@ -38,28 +38,28 @@ Some Important Links:
 
 Tentative Class Schedule:
 
-Week                   =     Topic
+   Week = Topic
 
-1                   =        Variables, Data Types, Scanf/Printf, Format 
+   1 = Variables, Data Types, Scanf/Printf, Format 
 
-2                           If-else, Nested If-else
+   2 = If-else, Nested If-else
 
-3                           Loop Basics: While, Do-while, For-loop
+   3 = Loop Basics: While, Do-while, For-loop
 
-4                           Nested Loop, Break, Continue
+   4 = Nested Loop, Break, Continue
 
-5                           Loop Advanced: Loop+If-else
+   5 = Loop Advanced: Loop+If-else
 
                             Online Contest-1
                             
-6                           Array: 1D, 2D
+   6 = Array: 1D, 2D
 
-7                           Character Array, String
+   7 = Character Array, String
 
-8                           Function, Recursion
+   8 = Function, Recursion
 
-9                           Binary Search + Others
+   9 = Binary Search + Others
 
-10                          STL Basic
+   10 = STL Basic
 
                             Online Contest-2
