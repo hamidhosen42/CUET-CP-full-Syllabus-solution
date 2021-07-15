@@ -121,3 +121,17 @@ the solution to the problems that you couldn’t solve by yourself, you have the
 actually just memorized it, and memorized stuff doesn’t actually stay in your mind
 for long-and you won’t be able to recognize patterns later as well.
 
+                                           Tutorials & Problems List for Level-1 Term-1
+
+                              (1-1) Week 1 (Variables, Data types, Scanf/Printf, Format Specifier)
+                           
+Tutorials:
+
+   1.প্রোগ্রামিং বইঃ [অধ্যায় দুই] ডাটা টাইপ, ইনপুট ও আউটপুট = http://cpbook.subeen.com/2011/08/data-type-input-output.html
+
+   2. List of all format specifies in C programming = https://codeforwin.org/2015/05/list-of-all-format-specifiers-in-c-programming.html
+   
+   3. Data Types in C = https://www.geeksforgeeks.org/data-types-in-c/
+   
+   4. https://www.youtube.com/watch?v=e9Eds2Rc_x
+            
