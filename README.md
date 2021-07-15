@@ -16,13 +16,12 @@ here will help you in a great deal but there might be many more resources. So al
 keep yourself up-to-date.
 
 Shortcuts:
-
-      1. Level-1 Term-1
+   1. Level-1 Term-1
       
-      2. Level-1 Term-2
+   2. Level-1 Term-2
       
-      3. Level-2 Term-1
+   3. Level-2 Term-1
       
-      4. Level-2 Term-2
+   4. Level-2 Term-2
       
-      5. Level-3 & Level-4
+   5. Level-3 & Level-4
