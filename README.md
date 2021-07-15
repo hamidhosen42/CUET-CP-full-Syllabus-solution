@@ -2,7 +2,7 @@
 
 # [7-CUET-CP-Syllabus.pdf](https://github.com/hamidhosen42/CUET-Competitive-Programmer-s-Syllabus/files/6811303/7-CUET-CP-Syllabus.pdf
 
-About:
+                                  About:
 
   This is a guideline for the Competitive Programmers of CUET in accordance with
 their academic calendar. It contains the topics that must be covered within first two years
@@ -15,7 +15,7 @@ your own duty to find out your lacking and focus/specialize on them. The links p
 here will help you in a great deal but there might be many more resources. So always
 keep yourself up-to-date.
 
-Shortcuts:
+                                          Shortcuts:
    1. Level-1 Term-1
       
    2. Level-1 Term-2
@@ -26,7 +26,7 @@ Shortcuts:
       
    5. Level-3 & Level-4
 
-Some Important Links:
+                              Some Important Links:
    1. Code Templates = https://drive.google.com/drive/folders/1o1aeJNMkFu_a75Ug_ipd6_MWnhKaqfbS
    
    2. Resources in Bengali = https://github.com/me-shaon/bangla-programming-resources
@@ -36,7 +36,7 @@ Some Important Links:
                                                       Term wise Syllabus
                                                       Level-1 Term-1
 
-Tentative Class Schedule:
+                                                  Tentative Class Schedule:
 
    Week = Topic
 
@@ -64,7 +64,7 @@ Tentative Class Schedule:
 
                             Online Contest-2
 
-Guidelines:
+                                Guidelines:
 
    ● Get complete idea about C
    
@@ -77,7 +77,7 @@ Guidelines:
    ● Take help from your Batch-mates, Seniors and Teachers if needed
 
 
-Expectations:
+                           Expectations:
 
    ● Able to implement your idea
    
@@ -95,7 +95,7 @@ Expectations:
    
    -At the end: 1200+
 
-Tips:
+                                         Tips:
 
    ● Learn about different good resources as well. Geeksforgeeks, emaxx, competitive
 programming 3, Mahbubul Hasan Shanto vai’s book on programming contest,
