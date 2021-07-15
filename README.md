@@ -63,3 +63,15 @@ Tentative Class Schedule:
    10 = STL Basic
 
                             Online Contest-2
+
+Guidelines:
+
+   ● Get complete idea about C
+   
+   ● Get basic idea about C++
+   
+   ● Try to implement what you think
+   
+   ● Must participate in Long-Contests (Upto 5 days) that will be held after each class
+   
+   ● Take help from your Batch-mates, Seniors and Teachers if needed
