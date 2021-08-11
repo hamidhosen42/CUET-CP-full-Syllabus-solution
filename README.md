@@ -25,6 +25,7 @@ Problems:
       3. 1006 : https://www.urionlinejudge.com.br/judge/en/problems/view/1006
       4. 1015 : https://www.urionlinejudge.com.br/judge/en/problems/view/1015
       5. 1019 : https://www.urionlinejudge.com.br/judge/en/problems/view/1019
+
 Code: 
    1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/1-Week-1%20(Variables%2CData%20Types%2CScanf%2CPrintf%2CFormat%20Specifier)
 
