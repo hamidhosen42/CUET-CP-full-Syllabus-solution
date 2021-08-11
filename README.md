@@ -11,10 +11,16 @@ Tutorials:
 
 Problems:
 
-   1. Codeforces: 1A, 99999100
-   2. Atcoder: ABC153A, ABC-148A
-   3. Hackerrank: Playing with Characters
-   4. URI: 1001,1002,1006,1015,1019
+   1. Codeforces:
+   
+      1. 1A : https://codeforces.com/problemset/problem/1/A
+         
+         Code: https://github.com/hamidhosen42/CUET-Competitive-Programmer-s-Syllabus/blob/cc02f63f7563ae47a16dc6679893c4d07330c226/1-Level-1%20Term-1/1-Week-1%20(Variables,Data%20Types,Scanf,Printf,Format%20Specifier)/CodeForce:-1A-Theatre%20Square.cpp
+         
+      3. 99999100
+   3. Atcoder: ABC153A, ABC-148A
+   4. Hackerrank: Playing with Characters
+   5. URI: 1001,1002,1006,1015,1019
 
 Code: 
    1. https://github.com/hamidhosen42/CUET-Competitive-Programmer-s-Syllabus/tree/main/1-Level-1%20Term-1/1-Week-1%20(Variables%2CData%20Types%2CScanf%2CPrintf%2CFormat%20Specifier)
