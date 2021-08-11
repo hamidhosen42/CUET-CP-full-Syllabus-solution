@@ -14,7 +14,6 @@ Problems:
    1. Codeforces:
    
       1. 1A : https://codeforces.com/problemset/problem/1/A
-         
          Code: https://github.com/hamidhosen42/CUET-Competitive-Programmer-s-Syllabus/blob/cc02f63f7563ae47a16dc6679893c4d07330c226/1-Level-1%20Term-1/1-Week-1%20(Variables,Data%20Types,Scanf,Printf,Format%20Specifier)/CodeForce:-1A-Theatre%20Square.cpp
          
       3. 99999100
