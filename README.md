@@ -15,9 +15,8 @@ Problems:
       1. 1A : https://codeforces.com/problemset/problem/1/A
       2. 100.A+B : https://codeforces.com/problemsets/acmsguru/problem/99999/100
    2. Atcoder: 
-  
-      1.ABC153A : https://atcoder.jp/contests/abc153
-      2.ABC-148A : https://atcoder.jp/contests/abc148/tasks/abc148_a?lang=en
+      1. ABC153A : https://atcoder.jp/contests/abc153
+      2. ABC-148A : https://atcoder.jp/contests/abc148/tasks/abc148_a?lang=en
    3. Hackerrank: 
    
       1.Playing with Characters : https://www.hackerrank.com/challenges/playing-with-characters/problem
