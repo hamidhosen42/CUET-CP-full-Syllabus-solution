@@ -1,4 +1,4 @@
-# CUET Competitive Programmer’s Syllabus
+# Competitive-Programming-Full-Course-Beginner-to-Advanced-levels
 
 # Tutorials & Problems List for Level-1 Term-1
 
