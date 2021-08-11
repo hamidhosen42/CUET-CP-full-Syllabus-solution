@@ -12,7 +12,6 @@ Tutorials:
 Problems:
 
    1. Codeforces:
-   
       1. 1A : https://codeforces.com/problemset/problem/1/A
       2. 100.A+B : https://codeforces.com/problemsets/acmsguru/problem/99999/100
    3. Atcoder: ABC153A, ABC-148A
