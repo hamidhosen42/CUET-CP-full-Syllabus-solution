@@ -38,7 +38,7 @@ Tutorials:
 Problems:
    1. Codeforces:
       1. 122A : https://codeforces.com/problemset/problem/122/A
-      2. 263 : https://codeforces.com/problemset/problem/263/A
+      2. 263A : https://codeforces.com/problemset/problem/263/A
    2. Codechef: 
       1. LEAP(Test the Year) : https://www.codechef.com/problems/LEAP
       2. EO(Even Odd) : https://www.codechef.com/problems/EO
@@ -55,4 +55,30 @@ Problems:
 
 Code: 
    1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/2-Week-2%20(If%20else%2CNested%20If%20else)
+
+
+                                  (1-1) Week 3 (Loop Basics: While, Do-While, For-loop)
+Tutorials:
+
+   1. [প্রোগ্রামিং বইঃ অধ্যোয় চোর] লুপ (Loop) : http://cpbook.subeen.com/2011/08/loop.html
+   2. Loops in C and C++ : https://www.geeksforgeeks.org/loops-in-c-and-cpp/
+
+Problems:
+   1. DimikOJ: 
+      1. Problem 6 : https://dimikoj.com/problems/6/52-problem-book-find-the-sum-by-dimik-computing
+      2. Problem 3 : https://dimikoj.com/problems/3/52-problem-book-decreasing-numbers-by-dimik-computing
+      3. Problem 5 : https://dimikoj.com/problems/5/52-problem-book-box-1-by-dimik-computing
+   2. Timus: 
+      1. 1149 : https://acm.timus.ru/problem.aspx?space=1&num=1149
+   3. LightOJ: 
+      1. 1000 : https://lightoj.com/problem/greetings-from-lightoj
+      2. 1022 : https://lightoj.com/problem/circle-in-square
+      3. 1216 : https://lightoj.com/problem/juice-in-the-glass
+   4. Codeforces:
+      1. 123-The sum : https://codeforces.com/problemsets/acmsguru/problem/99999/123
+      2. 791A : https://codeforces.com/problemset/problem/791/A
+      3. 977A : https://codeforces.com/problemset/problem/977/A
+
+Code: 
+   1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/3-Week-3%20(Loop%20Basics-While,Do-While,For-Loo)
 
