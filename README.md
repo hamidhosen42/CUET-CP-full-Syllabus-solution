@@ -4,11 +4,9 @@
 
                                  (1-1) Week 1 (Variables, Data types, Scanf/Printf, Format Specifier)
 Tutorials:
-
    1. [প্রোগ্রামিং বইঃ অধ্যায় দুই] ডোটো টোইপ, ইনপুট ও আউটপুট : http://cpbook.subeen.com/2011/08/data-type-input-output.html
    2. List of all format specifiers in C programming : https://codeforwin.org/2015/05/list-of-all-format-specifiers-in-c-programming.html
    3. Data Types in C : https://www.geeksforgeeks.org/data-types-in-c/
-
 Problems:
 
    1. Codeforces:
