@@ -104,5 +104,6 @@ Problems:
       7. 1188 : https://www.urionlinejudge.com.br/judge/en/problems/view/1188
    3. Hackerrank: 
       1.  Printing Pattern using Loops : https://www.hackerrank.com/challenges/printing-pattern-2/problem
+
 Code: 
-   1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/2-Week-2%20(If%20else%2CNested%20If%20else)
+   1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/4-Week-4%20(Nested%20Loop,Break,Continue)
