@@ -82,3 +82,27 @@ Problems:
 Code: 
    1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/3-Week-3%20(Loop%20Basics-While,Do-While,For-Loo)
 
+                                  (1-1) Week 4 (Nested Loop, Break, Continue)
+
+Tutorials:
+
+   1. Nested Loops in C with Examples : https://www.geeksforgeeks.org/nested-loops-in-c-with-examples/
+   2. Difference between continue and break statements in C++ : https://www.geeksforgeeks.org/difference-between-continue-and-break-statements-in-c/
+
+Problems:
+. CodeChef: BICBPAT1, PPATTERN
+   1. Codechef: 
+      1. BICBPAT1(Printing Pattern using loops) : https://www.codechef.com/problems/BICBPAT1
+      2. PPATTERN(Print Pattern) : https://www.codechef.com/problems/PPATTERN
+   2. URI: 
+      1. 1189 : https://www.urionlinejudge.com.br/judge/en/problems/view/1189\
+      2. 1190 : https://www.urionlinejudge.com.br/judge/en/problems/view/1190
+      3. 1183 : https://www.urionlinejudge.com.br/judge/en/problems/view/1183
+      4. 1435 : https://www.urionlinejudge.com.br/judge/en/problems/view/1435
+      5. 1478 : https://www.urionlinejudge.com.br/judge/en/problems/view/1478
+      6. 1186 : https://www.urionlinejudge.com.br/judge/en/problems/view/1186
+      7. 1188 : https://www.urionlinejudge.com.br/judge/en/problems/view/1188
+   3. Hackerrank: 
+      1.  Printing Pattern using Loops : https://www.hackerrank.com/challenges/printing-pattern-2/problem
+Code: 
+   1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/2-Week-2%20(If%20else%2CNested%20If%20else)
