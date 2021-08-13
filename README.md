@@ -7,8 +7,8 @@ Tutorials:
    1. [প্রোগ্রামিং বইঃ অধ্যায় দুই] ডোটো টোইপ, ইনপুট ও আউটপুট : http://cpbook.subeen.com/2011/08/data-type-input-output.html
    2. List of all format specifiers in C programming : https://codeforwin.org/2015/05/list-of-all-format-specifiers-in-c-programming.html
    3. Data Types in C : https://www.geeksforgeeks.org/data-types-in-c/
-Problems:
 
+Problems:
    1. Codeforces:
       1. 1A : https://codeforces.com/problemset/problem/1/A
       2. 100.A+B : https://codeforces.com/problemsets/acmsguru/problem/99999/100
@@ -29,7 +29,6 @@ Code:
 
                                   (1-1) Week 2 (If else, Nested If else)
 Tutorials:
-
    1. Decision Making in C / C++ (if , if..else, Nested if, if-else-if ) : https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/
    2. কমিউটোর প্রোগ্রামিং বই: [প্রোগ্রামিং বইঃ অধ্যায় তিন] কন্ডিশনাল লজিক। : http://cpbook.subeen.com/2011/08/conditional-logic.html
 
@@ -57,7 +56,6 @@ Code:
 
                                   (1-1) Week 3 (Loop Basics: While, Do-While, For-loop)
 Tutorials:
-
    1. [প্রোগ্রামিং বইঃ অধ্যায় চার] লুপ (Loop) : http://cpbook.subeen.com/2011/08/loop.html
    2. Loops in C and C++ : https://www.geeksforgeeks.org/loops-in-c-and-cpp/
 
@@ -108,21 +106,21 @@ Tutorials:
    1. [প্রোগ্রামিং বইঃ অধ্যায় চার] লুপ (Loop) : http://cpbook.subeen.com/2011/08/loop.html
 
 Problems:
-
-   1. Codeforces:
-      1. 1A : https://codeforces.com/problemset/problem/1/A
-      2. 100.A+B : https://codeforces.com/problemsets/acmsguru/problem/99999/100
+   1. Codechef:
+      1. LEAPY(Leap year) : https://www.codechef.com/problems/LEAPY
    2. Atcoder: 
-      1. ABC153A : https://atcoder.jp/contests/abc153
-      2. ABC-148A : https://atcoder.jp/contests/abc148/tasks/abc148_a?lang=en
-   3. Hackerrank: 
-      1. Playing with Characters : https://www.hackerrank.com/challenges/playing-with-characters/problem
-   4. URI: 
-      1. 1001 : https://www.urionlinejudge.com.br/judge/en/problems/view/1001
-      2. 1002 : https://www.urionlinejudge.com.br/judge/en/problems/view/1002
-      3. 1006 : https://www.urionlinejudge.com.br/judge/en/problems/view/1006
-      4. 1015 : https://www.urionlinejudge.com.br/judge/en/problems/view/1015
-      5. 1019 : https://www.urionlinejudge.com.br/judge/en/problems/view/1019
+      1. AtCoder Beginner Contest 079A : https://atcoder.jp/contests/abc079/tasks/abc079_a
+   5. Timus:
+      1. 1083 : https://acm.timus.ru/problem.aspx?space=1&num=1083
+      2. 1209 : https://acm.timus.ru/problem.aspx?space=1&num=1209
+   7. LightOJ:
+      1. 1001 : https://lightoj.com/problem/opposite-task
+      2. 1015 : https://lightoj.com/problem/brush-1
+      3. 1053 : https://lightoj.com/problem/higher-math
+      4. 1008 : https://lightoj.com/problem/fibsieves-fantabulous-birthday
+   8. URI: 
+      1. 1557 : https://www.urionlinejudge.com.br/judge/en/problems/view/1557
+      2. 1187 : https://www.urionlinejudge.com.br/judge/en/problems/view/1187
 
 Code: 
-   1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/1-Week-1%20(Variables%2CData%20Types%2CScanf%2CPrintf%2CFormat%20Specifier)
+   1. https://github.com/hamidhosen42/Competitive-Programming-Full-Course-Beginner-to-Advanced-levels/tree/main/1-Level-1%20Term-1/5-Week-5%20(Loop%20Advanced-Lopp%2BIf-else)
